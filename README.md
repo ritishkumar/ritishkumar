@@ -1,25 +1,30 @@
 <!-- Header -->
-<h1 align="center">Hey there 👋, I'm <span style="color:#38bdf8;">Ritish Kumar</span></h1>
+<h1 align="center">Hi 👋, I'm Ritish Kumar</h1>
+<h3 align="center">MERN Stack Developer | UI/UX Designer | React Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=2500&pause=500&color=38BDF8&center=true&vCenter=true&multiline=true&width=800&lines=MERN+Stack+Developer+%7C+React+%2B+Tailwind+Specialist;UI%2FUX+Designer+%F0%9F%8E%A8+%7C+Creative+Coder+%F0%9F%94%A5;Final+Year+B.Tech+Student+%7C+Lifelong+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C9A7&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer+%F0%9F%92%BB;Final+Year+CS+Student+%F0%9F%93%9D;Building+modern%2C+responsive+web+apps+%F0%9F%9A%80;Always+learning+%F0%9F%92%AB" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" alt="Developer GIF" />
 </p>
 
 ---
 
 ### 🎯 About Me
 
-🎓 Final-year B.Tech (CSE) student  
-💻 Currently a MERN Stack Trainee at **Digicoders Pvt. Ltd.**  
-🌟 Passionate about building responsive, animated, and accessible UI/UX  
-🔁 Always improving — DSA, communication skills, and frontend performance  
-🎯 Focused on making web interfaces smooth, aesthetic, and intuitive  
-📍 From:  Fatehpur UttarPradesh| Based in Lucknow
 
+```js
+const ritish = {
+  fullName: "Ritish Kumar",
+  role: "MERN Stack Developer",
+  education: "B.Tech in Computer Science (Final Year)",
+  location: "Lucknow, India 🇮🇳",
+  focus: ["MERN Stack", "UI/UX", "DSA", "Communication"],
+  hobbies: ["Building UIs", "Learning Animations", "Tech Blogging"],
+  openToWork: true,
+};
 ---
 
 ### 🛠️ Tech & Tools I Love
@@ -70,11 +75,7 @@
 
 ### 📈 GitHub Stats & Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ritishkumar&theme=tokyonight&show_icons=true" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ritishkumar&theme=tokyonight" width="47%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritishkumar&layout=compact&theme=tokyonight" width="47%" />
-</p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ritishkumar&show_icons=true&theme=radical&hide_border=false" width="47%" /> <img src="https://github-readme-streak-stats.herokuapp.com?user=ritishkumar&theme=radical&hide_border=false" width="47%" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritishkumar&layout=compact&theme=radical" width="47%" /> </p>
 
 ---
 

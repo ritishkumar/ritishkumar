@@ -15,7 +15,7 @@
 ### 🎯 About Me
 
 
-🎓 Final-year B.Tech (CSE) student  
+🎓  B.Tech (CSE) student  
 💻 Currently a MERN Stack Trainee at **Digicoders Pvt. Ltd.**  
 🌟 Passionate about building responsive, animated, and accessible UI/UX  
 🔁 Always improving — DSA, communication skills, and frontend performance  

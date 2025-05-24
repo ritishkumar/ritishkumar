@@ -3,7 +3,7 @@
 <h3 align="center">MERN Stack Developer | UI/UX Designer | React Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C9A7&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer+%F0%9F%92%BB;Final+Year+CS+Student+%F0%9F%93%9D;Building+modern%2C+responsive+web+apps+%F0%9F%9A%80;Always+learning+%F0%9F%92%AB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C9A7&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer+%F0%9F%92%BB;B.Tech+CS+Student+%F0%9F%93%9D;Building+modern%2C+responsive+web+apps+%F0%9F%9A%80;Always+learning+%F0%9F%92%AB" alt="Typing SVG" />
 </p>
 
 <p align="center">

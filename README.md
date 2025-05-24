@@ -2,7 +2,7 @@
 <h1 align="center">Hey there 👋, I'm <span style="color:#38bdf8;">Ritish Kumar</span></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2500&pause=500&color=38BDF8&center=true&vCenter=true&multiline=true&width=600&lines=MERN+Stack+Developer+%7C+React+%2B+Tailwind+Specialist;UI%2FUX+Designer+%F0%9F%8E%A8+%7C+Creative+Coder+%F0%9F%94%A5;Final+Year+B.Tech+Student+%7C+Lifelong+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2500&pause=500&color=38BDF8&center=true&vCenter=true&multiline=true&width=800&lines=MERN+Stack+Developer+%7C+React+%2B+Tailwind+Specialist;UI%2FUX+Designer+%F0%9F%8E%A8+%7C+Creative+Coder+%F0%9F%94%A5;Final+Year+B.Tech+Student+%7C+Lifelong+Learner" alt="Typing SVG" />
 </p>
 
 <p align="center">

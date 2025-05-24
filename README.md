@@ -15,16 +15,12 @@
 ### 🎯 About Me
 
 
-```js
-const ritish = {
-  fullName: "Ritish Kumar",
-  role: "MERN Stack Developer",
-  education: "B.Tech in Computer Science (Final Year)",
-  location: "Lucknow, India 🇮🇳",
-  focus: ["MERN Stack", "UI/UX", "DSA", "Communication"],
-  hobbies: ["Building UIs", "Learning Animations", "Tech Blogging"],
-  openToWork: true,
-};
+🎓 Final-year B.Tech (CSE) student  
+💻 Currently a MERN Stack Trainee at **Digicoders Pvt. Ltd.**  
+🌟 Passionate about building responsive, animated, and accessible UI/UX  
+🔁 Always improving — DSA, communication skills, and frontend performance  
+🎯 Focused on making web interfaces smooth, aesthetic, and intuitive  
+📍 From: Khaga, Fatehpur | Based in Lucknow
 ---
 
 ### 🛠️ Tech & Tools I Love
@@ -50,7 +46,23 @@ const ritish = {
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
 ![Framer Motion](https://img.shields.io/badge/-Framer%20Motion-1E1E1E?style=for-the-badge&logo=framer)
 
+<div align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,tailwind,bootstrap,figma,git,vscode" /> </div>
+
 ---
+
+ ### 🛤️ My Dev Journey
+journey
+    title My Path So Far
+    section Education
+      High School & Intermediate (83% & 71%): 2017-2019
+      B.Tech - CS: 2021-2025
+    section Development
+      Started learning Web Development 🔰: 2022
+      React, Node, MongoDB mastery 🚀: 2023
+      Built real-world projects 💻: 2023-2024
+      Final Year Project (Agri System) 🌱: 2024
+    section Present
+      Focused on UI/UX  + Speaking ✨: 2024-2025
 
 ### 🧠 What I Know
 

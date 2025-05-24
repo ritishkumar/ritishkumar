@@ -2,7 +2,7 @@
 <h1 align="center">Hey there 👋, I'm <span style="color:#38bdf8;">Ritish Kumar</span></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2500&pause=500&color=38BDF8&center=true&vCenter=true&multiline=true&width=800&lines=MERN+Stack+Developer+%7C+React+%2B+Tailwind+Specialist;UI%2FUX+Designer+%F0%9F%8E%A8+%7C+Creative+Coder+%F0%9F%94%A5;Final+Year+B.Tech+Student+%7C+Lifelong+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=2500&pause=500&color=38BDF8&center=true&vCenter=true&multiline=true&width=800&lines=MERN+Stack+Developer+%7C+React+%2B+Tailwind+Specialist;UI%2FUX+Designer+%F0%9F%8E%A8+%7C+Creative+Coder+%F0%9F%94%A5;Final+Year+B.Tech+Student+%7C+Lifelong+Learner" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -95,7 +95,7 @@
   <a href="mailto:ritishkumar184@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/ritish-kumar-11a28825a/">
+  <a href="https://www.linkedin.com/in/ritish-kumar-11a28825a/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
 </p>

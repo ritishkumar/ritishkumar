@@ -21,9 +21,26 @@
 🔁 Always improving — DSA, communication skills, and frontend performance  
 🎯 Focused on making web interfaces smooth, aesthetic, and intuitive  
 📍 From: Khaga, Fatehpur | Based in Lucknow
+
 ---
 
 ### 🛠️ Tech & Tools I Love
+<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb" alt="Tech stack icons" /> </p> <p align="center"> <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,figma,framer,git,github,vscode,postman" alt="UI/UX and tools icons" /> </p>
+
+💻 Frontend
+HTML • CSS • JavaScript • React • Next.js • Tailwind CSS • Framer Motion
+
+🧠 Backend
+Node.js • Express.js • MongoDB
+
+🎨 Design & UI/UX
+Figma • Framer Motion • Bootstrap
+
+⚙️ Dev Tools
+Git • GitHub • VS Code • Postman
+
+---
+
 
 #### 💻 Languages & Libraries
 
@@ -50,19 +67,6 @@
 
 ---
 
- ### 🛤️ My Dev Journey
-journey
-    title My Path So Far
-    section Education
-      High School & Intermediate (83% & 71%): 2017-2019
-      B.Tech - CS: 2021-2025
-    section Development
-      Started learning Web Development 🔰: 2022
-      React, Node, MongoDB mastery 🚀: 2023
-      Built real-world projects 💻: 2023-2024
-      Final Year Project (Agri System) 🌱: 2024
-    section Present
-      Focused on UI/UX  + Speaking ✨: 2024-2025
 
 ### 🧠 What I Know
 
